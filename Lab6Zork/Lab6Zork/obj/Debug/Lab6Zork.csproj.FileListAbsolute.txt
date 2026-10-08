@@ -1,0 +1,7 @@
+C:\Users\supsb\Documents\GitHub\Lab6ZorkSub\Lab6SubZork\Lab6Zork\Lab6Zork\bin\Debug\Lab6Zork.exe.config
+C:\Users\supsb\Documents\GitHub\Lab6ZorkSub\Lab6SubZork\Lab6Zork\Lab6Zork\bin\Debug\Lab6Zork.exe
+C:\Users\supsb\Documents\GitHub\Lab6ZorkSub\Lab6SubZork\Lab6Zork\Lab6Zork\bin\Debug\Lab6Zork.pdb
+C:\Users\supsb\Documents\GitHub\Lab6ZorkSub\Lab6SubZork\Lab6Zork\Lab6Zork\obj\Debug\Lab6Zork.csproj.AssemblyReference.cache
+C:\Users\supsb\Documents\GitHub\Lab6ZorkSub\Lab6SubZork\Lab6Zork\Lab6Zork\obj\Debug\Lab6Zork.csproj.CoreCompileInputs.cache
+C:\Users\supsb\Documents\GitHub\Lab6ZorkSub\Lab6SubZork\Lab6Zork\Lab6Zork\obj\Debug\Lab6Zork.exe
+C:\Users\supsb\Documents\GitHub\Lab6ZorkSub\Lab6SubZork\Lab6Zork\Lab6Zork\obj\Debug\Lab6Zork.pdb

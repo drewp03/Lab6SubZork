@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\supsb\\Documents\\GitHub\\Lab6ZorkSub\\Lab6SubZork\\Lab6Zork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{484EBEF3-2DBF-4514-B7D1-E9724FE8B55D}|Lab6Zork\\Lab6Zork.csproj|c:\\users\\supsb\\documents\\github\\lab6zorksub\\lab6subzork\\lab6zork\\lab6zork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484EBEF3-2DBF-4514-B7D1-E9724FE8B55D}|Lab6Zork\\Lab6Zork.csproj|solutionrelative:lab6zork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\supsb\\Documents\\GitHub\\Lab6ZorkSub\\Lab6SubZork\\Lab6Zork\\Lab6Zork\\Program.cs",
+              "RelativeDocumentMoniker": "Lab6Zork\\Program.cs",
+              "ToolTip": "C:\\Users\\supsb\\Documents\\GitHub\\Lab6ZorkSub\\Lab6SubZork\\Lab6Zork\\Lab6Zork\\Program.cs",
+              "RelativeToolTip": "Lab6Zork\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T03:10:21.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
